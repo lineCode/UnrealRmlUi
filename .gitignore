@@ -72,3 +72,8 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+.idea/*
+
+Source/RmlUi/RmlUi-5.0/*
+Source/RmlUi/freetype-windows-binaries-2.12.1/*
