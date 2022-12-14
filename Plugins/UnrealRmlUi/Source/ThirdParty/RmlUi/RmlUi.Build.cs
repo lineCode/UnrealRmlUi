@@ -8,7 +8,7 @@ public class RmlUi : ModuleRules
 {
 	public string GetUProjectPath()
 	{
-		return Directory.GetParent(ModuleDirectory).Parent.ToString();
+		return Directory.GetParent(ModuleDirectory).Parent.Parent.ToString();
 	}
 	
 	private void CopyToBinaries(string Filepath, ReadOnlyTargetRules Target)

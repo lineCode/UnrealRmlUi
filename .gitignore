@@ -75,5 +75,5 @@ DerivedDataCache/*
 
 .idea/*
 
-Source/RmlUi/RmlUi-5.0/*
-Source/RmlUi/freetype-windows-binaries-2.12.1/*
+Plugins/UnrealRmlUi/Source/ThirdParty/RmlUi/RmlUi-5.0/*
+Plugins/UnrealRmlUi/Source/ThirdParty/RmlUi/freetype-windows-binaries-2.12.1/*
